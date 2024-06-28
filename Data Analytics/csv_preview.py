@@ -6,7 +6,7 @@ import io
 import os
 
 # Set the API key for PandasAI
-os.environ['PANDASAI_API_KEY'] = "$2a$10$WUXdxt0YBbsTbc2jkbLWx.gciPY7/6afonYh4PoOtwEI9bsTx9ZPe"
+os.environ['PANDASAI_API_KEY'] = "PANDAS API KEY FROM THE PANDA BI PLATFORM"
 
 def main():
     """Streamlit app's main function."""
